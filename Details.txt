@@ -1,0 +1,29 @@
+
+Teacher details:
+
+	Id		Name
+	1		Ghotkar
+	2		Jignesh M
+	3		A Sawant
+	4		Y Haribhakt
+	5		Jibi Abraham
+	6		M Khandekar
+
+
+
+Class fy(1): 
+		Course Id	Name		Credits		Teacher Id
+		1		daa		   3		    1
+		3		jokes		   3		    6
+		2		sp		   3		    5
+
+Class sy(2): 
+		Course Id	Name		Credits		Teacher Id
+		10		daa		   3		    2
+		20		cn		   3		    3
+		30		co		   3		    3
+		40		dbms		   3		    1
+		50		sp		   3		    3
+		60		sp		   3		    3
+
+--------------------------------------------------------------------------------------------------------------------------
